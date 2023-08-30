@@ -12,7 +12,6 @@ public class Bootstrap : MonoBehaviour
     [ContextMenu("BuildMaze")]
     public void BuilIcon()
     {
-
         switch (_icon)
         {
             case IconForm.Monet:
